@@ -19,6 +19,8 @@ Logistic Regression
 
 <a href="https://github.com/FarhanSadaf/Machine-Learning-by-Andrew-Ng-in-Python/blob/master/Support%20Vector%20Machines/SVM.ipynb">Support Vector Machines</a>
 
+<a href="https://github.com/FarhanSadaf/Machine-Learning-by-Andrew-Ng-in-Python/blob/master/KNN/KNN.ipynb">K-Nearest Neighbors</a>
+
 <a href="https://github.com/FarhanSadaf/Machine-Learning-by-Andrew-Ng-in-Python/blob/master/KMeans/KMeans.ipynb">KMeans Algorithm</a>
 
 <a href="https://github.com/FarhanSadaf/Machine-Learning-by-Andrew-Ng-in-Python/blob/master/PCA/PCA.ipynb">Principal Component Analysis</a>
